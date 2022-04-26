@@ -1,2 +1,3 @@
 # Big-Bird-chatbot
-Let me present to you a topic of my engineering thesis - chatbot based on Google's BigBird!
+
+This is a project I have created for my bachelor degree - a chatbot made in PyTorch using the BigBird's power to provide IT related support to end users. 
